@@ -1,1 +1,35 @@
-[]
+        
+[
+  {
+    "patchName": "Custom branding",
+    "options": [
+      {
+        "key": "appName",
+        "value": "Youtube"
+      }
+    ]
+  },
+  {
+    "patchName": "Change header",
+    "options": [
+      {
+        "key": "header",
+        "value": "Premium"
+      }
+    ]
+  },
+  {
+    "patchName": "Theme",
+    "options": [
+      {
+        "key": "darkThemeBackgroundColor",
+        "value": "@android:color/system_neutral1_900"
+      },
+      {
+        "key": "lightThemeBackgroundColor",
+        "value": "@android:color/system_neutral1_50"
+      }
+    ]
+  }
+]
+        
